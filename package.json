@@ -1,1 +1,24 @@
-
+{
+  "name": "vensat-web",
+  "version": "1.0.0",
+  "description": "Web application for Vensat Reparaciones S.L.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "your-build-command",
+    "test": "your-test-command"
+  },
+  "keywords": [
+    "vensat",
+    "reparaciones",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
