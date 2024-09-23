@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/Home.css'; // Asegúrate de crear un archivo CSS para los estilos
 
 const Home = () => {
   return (
