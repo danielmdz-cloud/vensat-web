@@ -9,7 +9,7 @@
     "test": "your-test-command"
   },
   "dependencies": {
-    "next": "^12.0.0", // O la versión que estés usando
+    "next": "^12.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
